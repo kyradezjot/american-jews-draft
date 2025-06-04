@@ -1,5 +1,5 @@
 ---
-title: Browse
+title: Explore
 layout: browse
 permalink: /browse.html
 ---
