@@ -50,9 +50,9 @@ metadata: YouthCamps_metadata
 #   To remove the branding, comment out these values, or delete them. 
 #
 # organization-name: "Digitial Humanities Summer Institute"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+# organization-link: "Digitial Humanities Summer Institute"
+# organization-logo-banner: "Digitial Humanities Summer Institute"
+# organization-logo-nav: "Digitial Humanities Summer Institute"
 
 ##########
 # ROBOTS EXCLUDE
