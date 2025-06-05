@@ -28,7 +28,4 @@ This collection is part one of a two part research project. The second part will
 
 Kyra Dezjot is a doctoral student at Fordham University and intends to use this project as the base for her disertation.
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
