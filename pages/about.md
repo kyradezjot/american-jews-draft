@@ -22,10 +22,10 @@ padding: 4em
 
 This collection aims to expose the presence and popularity of Nazi Youth Camps in the United States just before World War II. Based on the American Boy Scouts and Hitler Youth, the Nazi Youth Camps aimed to train young boys to be good Aryan Germans. The girls camps, which were not as popular, trained girls to be mothers, housewives and support the cause of "true Germans," a phrase that reflects the racial beliefs held at the time. 
 
-This collection is part one of a two part research project. The second part will investigate how the formation and disbanding of these Summer Camps affected the Jewish communities surrounding them. Specifically I will ask questions including: how did young boys who attended Nazi summer camps interact with their Jewish peers in schools? How did community organizers resist the presence of Nazi Camps in their towns? How does the Jewish community remember these camps?
+This collection is part one of a two part research project. The second part (forethcoming) will investigate how the formation and disbanding of these Summer Camps affected the Jewish communities surrounding them. Specifically I will ask questions including: how did young boys who attended Nazi summer camps interact with their Jewish peers in schools? How did community organizers resist the presence of Nazi Camps in their towns? How does the Jewish community remember these camps?
 
 # About The Author
 
-Kyra Dezjot is a doctoral student at Fordham University and intends to use this project as the base for her disertation.
+Kyra Dezjot is a doctoral student at Fordham University and intends to use this project as the base for her disertation. Kyra does not own the rights to any of the documents digitized in this collection. 
 
 
