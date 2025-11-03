@@ -26,6 +26,6 @@ This collection is part one of a two part research project. The second part will
 
 # About The Author
 
-Kyra Dezjot is a doctoral student at Fordham University and intends to use this project as the base for her disertation.
+Kyra Dezjot is a doctoral student at Fordham University and intends to use this project as the base for her disertation. Kyra does not own the rights to any of the documents within this collection. 
 
 
