@@ -26,10 +26,7 @@ This collection is part one of a two part research project. The second part (for
 
 # About The Author
 
-<<<<<<< HEAD
 Kyra Dezjot is a doctoral student at Fordham University and intends to use this project as the base for her disertation. Kyra does not own the rights to any of the documents digitized in this collection. 
-=======
-Kyra Dezjot is a doctoral student at Fordham University and intends to use this project as the base for her disertation. Kyra does not own the rights to any of the documents within this collection. 
->>>>>>> d6eba45aeb104ba63d99722d8db9cd11548f7a59
+ 
 
 
