@@ -2,6 +2,9 @@
 title: German American Bund
 layout: about
 permalink: /germanamericanbund.html
+about-featured-image: camps002
+position: top
+padding: 5em
 ---
 
 ## German American Bund
