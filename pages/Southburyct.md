@@ -19,4 +19,4 @@ One resident of Southbury and New York, Miss Jennie Hinman, proposed the resolut
 
 Rev. M. E. N. Linday pastor of South Britain Congregational church, reflected Miss Hinman's sentiments, citing "we desire to save all mankind rather than condemn it and are not against men but against movements that hurt men."
 
-{% include feature/image.html objectid="camps012;camps013" %}
+{% include feature/image.html objectid="camps009;camps013" %}
