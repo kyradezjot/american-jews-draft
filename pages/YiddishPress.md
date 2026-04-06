@@ -2,7 +2,7 @@
 title: Yiddish Press
 layout: about
 permalink: /YiddishPress.html
-about-featured-image: camps056
+about-featured-image: camps055
 position: top
 padding: 5em
 ---
