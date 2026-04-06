@@ -1,8 +1,8 @@
 ---
 title: Yiddish Press
 layout: about
-permalink: /yiddishpress.html
-about-featured-image: 
+permalink: /YiddishPress.html
+about-featured-image: camps056
 position: top
 padding: 5em
 ---
