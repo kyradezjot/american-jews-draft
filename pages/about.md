@@ -20,13 +20,14 @@ padding: 4em
 
 ## About This Collection 
 
-This collection aims to expose the presence and popularity of Nazi Youth Camps in the United States just before World War II. Based on the American Boy Scouts and Hitler Youth, the Nazi Youth Camps aimed to train young boys to be good Aryan Germans. The girls camps, which were not as popular, trained girls to be mothers, housewives and support the cause of "true Germans," a phrase that reflects the racial beliefs held at the time. 
 
-This collection is part one of a two part research project. The second part (forethcoming) will investigate how the formation and disbanding of these Summer Camps affected the Jewish communities surrounding them. Specifically I will ask questions including: how did young boys who attended Nazi summer camps interact with their Jewish peers in schools? How did community organizers resist the presence of Nazi Camps in their towns? How does the Jewish community remember these camps?
+From 1930-1939 the German-American Bund created and ran several summer camps aimed at adolescent German Americans. These camps have largely been forgotten in the historical record despite a wealth of primary source evidence to document them. Before investigating the historiographic erasure of these camps and in depth effects on the surrounding Jewish community, it is necessary to understand how the German American Summer Camp introduced elements of a German identity to American campers and, in so doing, effected the formation of a novel hybrid identity.
+
+This collection aims to expose the presence and popularity of Nazi Youth Camps in the United States just before World War II. Based on the American Boy Scouts and Hitler Youth, the Nazi Youth Camps aimed to train young boys to be good Aryan Germans. The girls camps, which were not as popular, trained girls to be mothers, housewives and support the cause of "true Germans," a phrase that reflects the racial beliefs held at the time. 
 
 # About The Author
 
-Kyra Dezjot is a doctoral student at Fordham University and intends to use this project as the base for her disertation. Kyra does not own the rights to any of the documents digitized in this collection. 
+Kyra Dezjot is a PhD candidate at Fordham University and intends to use this project as the base for her disertation. Kyra does not own the rights to any of the documents digitized in this collection. 
  
 
 
