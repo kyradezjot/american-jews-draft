@@ -4,7 +4,7 @@ layout: about
 permalink: /southburyct.html
 about-featured-image: camps004
 position: top
-padding: 1em
+padding: 10em
 ---
 
 ## Southbury, C.T.
